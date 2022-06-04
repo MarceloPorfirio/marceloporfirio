@@ -1,10 +1,11 @@
-### Hi there 👋 i'm 
+### Hi there 👋
+I'm 
 
 <h1>Marcelo Porfirio</h1> 
 <p>Contato</p>
 
 ![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)
 <h2>Skills</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
