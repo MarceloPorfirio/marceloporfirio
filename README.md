@@ -1,5 +1,3 @@
-### Hi there 👋
-I'm 
 
 <h1>Marcelo Porfirio</h1> 
 <p><strong>You have exactly everything you need, just use.</strong><p>
