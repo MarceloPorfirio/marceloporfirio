@@ -2,7 +2,9 @@
 I'm 
 
 <h1>Marcelo Porfirio</h1> 
-<p>Contato</p>
+<h2>You have exactly everything you need, just use.
+  
+<h3>Contato</h3>
 
 ![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)
