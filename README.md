@@ -2,12 +2,12 @@
 I'm 
 
 <h1>Marcelo Porfirio</h1> 
-<h2>You have exactly everything you need, just use.
+<p><strong>You have exactly everything you need, just use.</strong><p>
   
 <h3>Contato</h3>
 
 ![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Matrix](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)
+![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 <h2>Skills</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
